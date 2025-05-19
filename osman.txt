@@ -1,5 +1,8 @@
 osman adamdır
 osman iyi bir adam değilmiş yeni öğrendik.
+
 main branch degisiklik 1.satır
 main branch degisiklik 2.satır
 main branch degisiklik 3. satır
+
+ogrenmenin sonu yok. deneme3 . ortak class.
